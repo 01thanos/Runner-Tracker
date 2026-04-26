@@ -16,6 +16,10 @@ pnpm workspace monorepo using TypeScript. Each package manages its own dependenc
 - **API codegen**: Orval (from OpenAPI spec)
 - **Build**: esbuild (CJS bundle)
 
+## Artifacts
+
+- **runner** (`artifacts/runner`) — Expo mobile app for beginner runners. Logs workouts (distance, time, feeling, notes), shows monthly distance/time/runs, streak, and a 6-month progress chart. Uses AsyncStorage for persistence (no backend).
+
 ## Key Commands
 
 - `pnpm run typecheck` — full typecheck across all packages
