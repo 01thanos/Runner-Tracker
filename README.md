@@ -40,7 +40,7 @@ A simple, clean, and motivating running tracker that helps you log runs, track p
 
 ## 🚀 Live Demo
 
-👉 *(Add your Replit live link here)*
+👉 *https://runner-tracker--thanossenapati.replit.app/*
 
 ---
 
