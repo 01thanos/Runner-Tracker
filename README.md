@@ -1,4 +1,4 @@
-# 🏃 Runner Tracker
+## 🏃 Runner Tracker
 
 A simple, clean, and motivating running tracker that helps you log runs, track progress, and stay consistent.
 
