@@ -38,12 +38,6 @@ A simple, clean, and motivating running tracker that helps you log runs, track p
 
 ---
 
-## 🚀 Live Demo
-
-👉 *https://runner-tracker--thanossenapati.replit.app/*
-
----
-
 ## 🛠️ Tech Stack
 
 - Frontend: *(React / Vanilla JS / etc — update this)*
